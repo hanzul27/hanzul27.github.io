@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hanzul Munkhbat
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th February 2003
     - name: Languages
-      value: English, German
+      value: English, Mongolian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor in Science
+      institution: Massachusetts Institute of Technology
+      year: 2026 (expected)
       description:
         - Description 1.
         - Description 2.
@@ -21,75 +21,88 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Research Opportunities Program (UROP) student
+      institution: Massachusetts Institute of Technology
+      year: Spring 2023 - Spring 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Markov Chain Mixing Time on Random Walks on Graphs
+        - Worked with then-postdoc Jimmy He.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Undergraduate Research Opportunities Program (UROP) student
+      institution: Massachusetts Institute of Technology
+      year: Spring 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Stochastic Non-Linear Schrodinger equation
+        - Working with Prof. Gigliola Staffilani and graduate student Joshua Earl Messing
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research student
+      institution: Massachusetts Institute of Technology
+      year: Spring 2025 - Present
       description:
+        - Finite Field projection theory
+        - Working with Prof. Larry Guth and graduate student Siqi Wu
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Directed Reading Project (DRP) Mentee
+      institution: Massachusetts Institute of Technology
+      year: IAP 2023
+      description:
+        - Spectral Geometry
+        - Did reading project under supervision of graduate student Elena Kim
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Directed Reading Project (DRP) Mentee
+      institution: Massachusetts Institute of Technology
+      year: IAP 2025
+      description:
+        - Decoupling in harmonic analysis
+        - Did reading project under supervision of graduate student Jiahui Yu
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - International Mathemaitcal Olympiad (IMO) Gold medal
+        - Rank 24
+    - year: 2020
       items:
-        - Max Planck Medal
+        - International Mathemaitcal Olympiad (IMO) Silver medal
+        - Rank 59
+    - year: 2019
+      items:
+        - International Mathemaitcal Olympiad (IMO) Gold medal
+        - Rank 41
+    - year: 2018
+      items:
+        - International Mathemaitcal Olympiad (IMO) Bronze medal
+    - year: 2016
+      items:
+        - International Mathemaitcal Olympiad (IMO) Honorable Mention
+    - year: 2021
+      items:
+        - William Lowell Putnam competition Honorable Mention
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Harmonic analysis
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Projection theory
+        - Dispersive equations
+
 
 - title: Other Interests
   type: list
