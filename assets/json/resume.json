@@ -79,7 +79,7 @@
         "date": "Multiple years",
         "awarder": "IMO Board",
         "url": "https://www.imo-official.org/",
-        "summary": "Won Gold medal in 2019 and 2021, Silver medal in 2020, Bronze medal in 2018 and Honorable Mention in 2016"
+        "summary": "Won Gold medals in 2019 and 2021, Silver medal in 2020, Bronze medal in 2018 and Honorable Mention in 2016"
       }
     ],
     "skills": [
@@ -90,7 +90,6 @@
         "keywords": [
           "Python",
           "C/C++",
-          "Low-Level Programming",
           "RISC-V and Assembly"
         ]
       }
