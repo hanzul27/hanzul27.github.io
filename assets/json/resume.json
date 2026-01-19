@@ -40,7 +40,7 @@
         "name": "Research from a class final project",
         "position": "Student researcher",
         "url": "https://math.mit.edu/~lguth/" ,
-        "startDate": "SP. 2025",
+        "startDate": "Apr. 2025",
         "endDate": "Present",
         "summary": "Working with Prof. Larry Guth and graduate student Siqi Wu on sieve theory in finite field projection theory",
         "highlights": ["Projection theory"]
@@ -49,10 +49,19 @@
         "name": "Undergraduate Research Opportunities Program (UROP)",
         "position": "Student researcher",
         "url" : "https://math.mit.edu/~gigliola/",
-        "startDate": "SP. 2024",
-        "endDate": "Present",
+        "startDate": "Jan. 2024",
+        "endDate": "Aug. 2025",
         "summary": "Working under Prof. Gigliola Staffilani and graduate student Joshua Earl Messing on the Non-Linear Schrodinger Equation",
         "highlights": ["Dispersive Equations"]
+      },
+      {
+        "name": "Directed Reading Program (DRP)",
+        "position": "Mentee",
+        "url": "https://math.mit.edu/research/undergraduate/drp/" ,
+        "startDate": "Jan. 2026",
+        "endDate": "Feb. 2026",
+        "summary": "Further read about decoupling theory, multilinear Kakeya estimates and projection theory under supervision of graduate student Jiahui Yu",
+        "highlights": ["Decoupling inequality", "multilinear Kakeya", "projection theory" ]
       },
       {
         "name": "Directed Reading Program (DRP)",
